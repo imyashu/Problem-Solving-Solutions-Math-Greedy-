@@ -111,3 +111,6 @@ int main()
     cin>>n;
     cout<<(factors(n)%mod)<<endl;
 }
+Could you plz explain (2*count+1)
+ Line number 100
+Thanks
